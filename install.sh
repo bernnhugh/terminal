@@ -1,0 +1,1 @@
+apt --no-install-recommends install vim xserver-xorg xserver-xorg-video-fbdev xinit pciutils xinput xfonts-100dpi xfonts-75dpi xfonts-scalable x11-xserver-utils chromium-browser openbox build-essential libudev-dev libusb-1.0-0-dev nodejs npm dnsutils
